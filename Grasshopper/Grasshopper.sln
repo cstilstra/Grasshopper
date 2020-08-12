@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrasshopperAPI", "GrasshopperAPI.csproj", "{81D1DF98-A0EC-46F1-A164-EA95A9F62671}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper", "Grasshopper.csproj", "{225FE315-338B-4CB9-9689-D8F5456BC433}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81D1DF98-A0EC-46F1-A164-EA95A9F62671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81D1DF98-A0EC-46F1-A164-EA95A9F62671}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81D1DF98-A0EC-46F1-A164-EA95A9F62671}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81D1DF98-A0EC-46F1-A164-EA95A9F62671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225FE315-338B-4CB9-9689-D8F5456BC433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225FE315-338B-4CB9-9689-D8F5456BC433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225FE315-338B-4CB9-9689-D8F5456BC433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225FE315-338B-4CB9-9689-D8F5456BC433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BB1DDE48-B700-4131-A9D6-831546C3B489}
+		SolutionGuid = {C247A76E-A5D0-4CA8-B886-83C985184211}
 	EndGlobalSection
 EndGlobal
